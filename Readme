@@ -1,0 +1,5 @@
+//backend
+cd server
+npm run server
+//frontend
+npm rum client
